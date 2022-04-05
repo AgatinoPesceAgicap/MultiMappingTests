@@ -1,0 +1,8 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b1194377_002Db688_002D46bc_002Dbb70_002D8eb4ca75fd45/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Shoul_collect_all_payments_for_each_invoice" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::4E05EB02-0E62-4ADC-A083-5891273CEAA4::net5.0::MultiMappingTests.MultiMappingTests.Should_retrieve_invoices&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::4E05EB02-0E62-4ADC-A083-5891273CEAA4::net5.0::MultiMappingTests.MultiMappingTests.Should_retrieve_invoices_joined_payments&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::4E05EB02-0E62-4ADC-A083-5891273CEAA4::net5.0::MultiMappingTests.MultiMappingTests.Should_retrieve_invoices_joined_payments_grouped&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
