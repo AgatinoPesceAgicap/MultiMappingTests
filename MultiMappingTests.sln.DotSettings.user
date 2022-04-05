@@ -4,5 +4,6 @@
     &lt;TestId&gt;xUnit::4E05EB02-0E62-4ADC-A083-5891273CEAA4::net5.0::MultiMappingTests.MultiMappingTests.Should_retrieve_invoices&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;xUnit::4E05EB02-0E62-4ADC-A083-5891273CEAA4::net5.0::MultiMappingTests.MultiMappingTests.Should_retrieve_invoices_joined_payments&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;xUnit::4E05EB02-0E62-4ADC-A083-5891273CEAA4::net5.0::MultiMappingTests.MultiMappingTests.Should_retrieve_invoices_joined_payments_grouped&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::4E05EB02-0E62-4ADC-A083-5891273CEAA4::net5.0::MultiMappingTests.MultiMappingTests.Should_create_list&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
